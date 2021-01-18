@@ -4,13 +4,13 @@ body{
 }
 h1{
     color: #565656;
-    margin-left: 300px;
-    font-size: 50px;
+    margin-left: 200px;
+    font-size: 30px;
     
 }
 img{
-    margin-left: 300px;
-     margin-top: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
 }
 
 p{
@@ -46,8 +46,8 @@ p{
 .b{
     position: relative;
     bottom: 400px;
-    left: 700px;
-    width: 700px;
+    left: 500px;
+    width: 500px;
     height: 100px;
     text-align: justify;
 }
@@ -55,9 +55,9 @@ p{
     font-family: Arial;
     font-size: 15px;
     position: relative;
-    height: 100px;
-    left: 800px;
-    width: 500px;
+    height: 50px;
+    left: 600px;
+    width: 300px;
     bottom:390px;
 }
 .d{
@@ -72,7 +72,7 @@ p{
     line-height: 25px;
 }
 .li{
-    height: 20px;
+    height: 10px;
 }
 
 .fundo{
