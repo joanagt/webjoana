@@ -45,7 +45,7 @@ p{
 }
 .b{
     position: relative;
-    bottom: 300px;
+    bottom: 450px;
     left: 600px;
     width: 550px;
     height: 100px;
@@ -63,13 +63,13 @@ p{
 .d{
     background-color:#EDEDED;
     margin-top: 150px;
-    width:240px ;
+    width:200px ;
     margin-left: 90px;
     border-spacing: 1px;
     border-bottom: 5px gray solid;
     border-right: 5px gray solid;
     border-radius: 7px;
-    line-height: 25px;
+    line-height: 20px;
 }
 .li{
     height: 10px;
