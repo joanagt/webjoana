@@ -80,13 +80,18 @@ h2{
     margin-top: 170px;
 }
 #video{
-    margin-top:-750px;
-    margin-left: 850px;
+    margin-top: -725px;
+    position: absolute;
+    float: right;
+    right:20px;
+   
 }
 
-#time img{
-    margin-top:50px;
-    margin-left: 850px;
+#time {
+    right: 10px;
+    position: relative;
+    margin-top:-35%;
+    float:right;
     border-bottom: 5px gray solid;
     border-right: 5px gray solid;
     border-radius: 7px;
