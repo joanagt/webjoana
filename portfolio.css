@@ -80,22 +80,22 @@ h2{
     margin-top: 170px;
 }
 #video{
-    margin-top: -725px;
+    margin-top: -750px;
     position: absolute;
     float: right;
     right:20px;
    
 }
 
-#time {
+/*time {
     right: 10px;
     position: relative;
-    margin-top:-35%;
+    margin-top:-10%;
     float:right;
     border-bottom: 5px gray solid;
     border-right: 5px gray solid;
     border-radius: 7px;
-}
+}*/
 .legend{
     padding: 4px 7px;
     font: 10px 'Arial';
